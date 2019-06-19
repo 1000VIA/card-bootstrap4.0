@@ -1,0 +1,54 @@
+    * {
+        padding: 2px;
+    }
+    
+    body {
+        background-image: url(https://i.ibb.co/QH07nGw/fondo.jpg);
+    }
+    
+    header {
+        background-color: #10eaf0;
+    }
+    
+    h1,
+    h2 {
+        font-family: 'Coiny', cursive;
+    }
+    
+    h4 {
+        color: #064acb;
+    }
+    
+    p {
+        font-family: 'Croissant One', cursive;
+    }
+    
+    .titulo {
+        font-family: 'Coiny', cursive;
+    }
+    
+    section .card {
+        font-family: 'Croissant One', cursive;
+        background: #e86ed0;
+    }
+    
+    .tarjeta {
+        background: #10eaf0;
+    }
+    
+    img {
+        width: 150px;
+        height: 150px;
+    }
+    
+    .imagen {
+        margin-top: -50px;
+        border: 2px solid #ddd;
+    }
+    
+    footer,
+    p {
+        background: #23eae6;
+        color: #b206b0;
+        font-family: 'Coiny', cursive;
+    }
